@@ -66,7 +66,7 @@ Effective inventory and sales management are essential to prevent losses due to:
   - Scatter plot for low-performing brands
   - Vendor/Brand performance ranking
 
-![Dashboard Preview]![image](https://github.com/user-attachments/assets/7f46ac60-6d9d-4b3f-910f-2b836a9984cc)
+(https://github.com/user-attachments/assets/7f46ac60-6d9d-4b3f-910f-2b836a9984cc)
 
 ---
 
