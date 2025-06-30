@@ -30,6 +30,9 @@ Effective inventory and sales management are essential to prevent losses due to:
 - **Visualization**: Power BI
 - **Notebook Environment**: Jupyter
 
+  ![Workflow](https://github.com/user-attachments/assets/cde19bed-dea0-4bac-b0cb-3d6c8f4160a4)
+
+
 ---
 
 ## 📊 Workflow
@@ -66,7 +69,8 @@ Effective inventory and sales management are essential to prevent losses due to:
   - Scatter plot for low-performing brands
   - Vendor/Brand performance ranking
 
-(https://github.com/user-attachments/assets/7f46ac60-6d9d-4b3f-910f-2b836a9984cc)
+![image](https://github.com/user-attachments/assets/7c03da30-fc80-4400-a20f-0815fda92dd6)
+
 
 ---
 
